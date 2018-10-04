@@ -1,2 +1,9 @@
 # me
-New portfolio project in progress... 
+#### New portfolio project in progress... 
+
+### Goal 
+ * one page layout using react with individualized design. 
+ 
+### IB 
+ * make small side scroller JS game
+ * use subtle animation on certain page update/changes (to scroll or not to scroll)
