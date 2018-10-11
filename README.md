@@ -2,7 +2,7 @@
 #### New portfolio project in progress... 
 
 ### Goal 
- * one page layout using react with individualized design. 
+ * SPA using react with individualized design. 
  
 ### IB 
  * make small side scroller JS game
